@@ -2,24 +2,24 @@ var updates = {
     'Manager-apr282017': {
         'title': 'Manager List',
         'date': 'Apr 28, 2017',
-        'link': 'http://www.link.com',
+        'link': 'http://www.example.com',
     },
     'Checklist-apr272017': {
         'title': 'Checklist',
         'date': 'Apr 27, 2017',
-        'link': 'http://www.link.com',
+        'link': 'http://www.example.com',
     },
     'Somelist-apr252017': {
         'title': 'Some List',
         'date': 'Apr 25, 2017',
-        'link': 'http://www.link.com',
+        'link': 'http://www.example.com',
     },
 };
 
 var links = {
-    'Link1-Title': {'link': 'www.link.com'},
-    'Link2-Title': {'link': 'www.link.com'},
-    'Link3-Title': {'link': 'www.link.com'},
+    'Helpful-Link1-Title': {'link': 'http://www.example.com'},
+    'Helpful-Link2-Title': {'link': 'http://www.example.com'},
+    'Helpful-Link3-Title': {'link': 'http://www.example.com'},
 };
 
 //script from https://www.creativejuiz.fr/blog/en/javascript-en/read-url-get-parameters-with-javascript
